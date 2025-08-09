@@ -1,0 +1,36 @@
+# 这是一个基本的工作流，可帮助您开始使用 Actions
+
+名称: CI
+
+# 控制工作流程的运行时间
+在:
+  # 触发推送或拉取请求事件的工作流，但仅限于“main”分支
+  推送:
+    分支: [ "main" ]
+  拉取请求:
+    分支: [ "main" ]
+
+  # 允许您从 Actions 标签手动运行此工作流程
+  工作流_派送:
+
+# 工作流运行由一个或多个作业组成，这些作业可以串行或并行运行
+工作:
+  # 此工作流包含一个名为“build”的作业
+  构建:
+    # 作业将运行的运行器类型
+    运行于: ubuntu-latest
+
+    # 步骤表示一系列将作为作业的一部分执行的任务
+    步骤：
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
