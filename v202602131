@@ -1,51 +1,3 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2026-02-13 01:04:14  
-所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
-
-| 客户端 | Android | Windows | iOS      |
-| ------ | ------- | ------- | -------- |
-| v2ray  | v2rayNG | v2rayN  | OneClick |
-## v2rayN使用教程：[点击查看](https://v2rayn100.com/) 
-
-## 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
-
-## 高速机场推荐1:【 ORYMI 】
-
-免费套餐 (抵扣码：FR666)
-
-- 套餐流量：20 GB
-- 带宽限制：5 Mbps
-- 优质隧道专线
-- 全平台客户端支持
-- 同时在线设备：2 台
-- 免费观看netflix、disney+、primevideo、hbomax
-
-网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  九折优惠码：LxwSsaay
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## 高速机场推荐2：【星辰加速】
-
-轻量型  9元/月
-
-- 流量：150 GB
-- 速度限制：∞ Gbps
-- 同时在线设备：不限制 台
-- 流量按月重置
-- 支持多平台使用
-- 解锁流媒体及ChatGPT
-- 免账号观看disney+
-
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  九折优惠码：3UJuVnqS
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## v2ray免费节点订阅  
-- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202602132`  
-
-## v2ray免费节点分享
-
-```  
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206L0o5d1ZlRVJXS2VSTUpqbVl6M3BJZGtmdnJ1RnIxbzAvMEozVkw5TUs0Yz0@51.195.110.193:8389#%E6%9C%AA%E7%9F%A5%20SS-01%20%7C%20free-nodes
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UGFDWGtnOTdrOWs5YTE4clM3OGtlOXdoZHFNQkNxbVhycFROZkVZTkpZZz0@51.178.85.208:8389#FR%20SS-02%20%7C%20free-nodes
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#FR%20SS-03%20%7C%20free-nodes
@@ -181,6 +133,3 @@ vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889?security=&encryp
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=/&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#GB%20VLESS-133%20%7C%20free-nodes
 vless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#%E6%9C%AA%E7%9F%A5%20VLESS-134%20%7C%20free-nodes
 vless://id8114764549@45.15.127.107:443?security=reality&encryption=none&pbk=3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk&headerType=none&fp=chrome&spx=%2F4DG4AavkhI8my2L&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e3#%E6%9C%AA%E7%9F%A5%20VLESS-135%20%7C%20free-nodes
-```
-
-更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/free-nodes/clashfree) [clash下载](https://github.com/clashbk/clash)
