@@ -1,51 +1,3 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2026-03-02 00:34:59  
-所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
-
-| 客户端 | Android | Windows | iOS      |
-| ------ | ------- | ------- | -------- |
-| v2ray  | v2rayNG | v2rayN  | OneClick |
-## v2rayN使用教程：[点击查看](https://v2rayn100.com/) 
-
-## 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
-
-## 高速机场推荐1:【 ORYMI 】
-
-免费套餐 (抵扣码：FR666)
-
-- 套餐流量：20 GB
-- 带宽限制：5 Mbps
-- 优质隧道专线
-- 全平台客户端支持
-- 同时在线设备：2 台
-- 免费观看netflix、disney+、primevideo、hbomax
-
-网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  九折优惠码：LxwSsaay
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## 高速机场推荐2：【星辰加速】
-
-轻量型  9元/月
-
-- 流量：150 GB
-- 速度限制：∞ Gbps
-- 同时在线设备：不限制 台
-- 流量按月重置
-- 支持多平台使用
-- 解锁流媒体及ChatGPT
-- 免账号观看disney+
-
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  九折优惠码：3UJuVnqS
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## v2ray免费节点订阅  
-- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202603022`  
-
-## v2ray免费节点分享
-
-```  
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NmQ3Njc0YzI1Yzc1ZTAy@57.130.29.62:11201#FR%20SS-01%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmM4MDFhN2NhYzVmMTM0@93.174.164.89:11201#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#DE%20SS-03%20%7C%20free-nodes
@@ -168,6 +120,3 @@ vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?encryption=none&typ
 vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?security=reality&encryption=none&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e473bbc75224b9df#%E6%9C%AA%E7%9F%A5%20VLESS-120%20%7C%20free-nodes
 vless://ff9035ba-4052-4fa5-8ccf-f9a6ca57407d@91.184.250.227:443?security=reality&encryption=none&pbk=avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d14f7150911e712d#%E6%9C%AA%E7%9F%A5%20VLESS-121%20%7C%20free-nodes
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:80#%E6%9C%AA%E7%9F%A5%20SS-122%20%7C%20free-nodes
-```
-
-更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/free-nodes/clashfree) [clash下载](https://github.com/clashbk/clash)
