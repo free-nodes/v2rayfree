@@ -1,55 +1,3 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2026-03-23 00:36:47  
-所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
-
-## 客户端
-
-| Windows                                                | Android                                                      | iOS                                                          | macOS                                                    |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-| [v2rayN](https://github.com/clashbk/clash/wiki/v2rayn) | [Clash Meta for Android](https://github.com/clashbk/clash/wiki/clash-meta-for-android) | [shadowrocket](https://github.com/clashbk/clash/wiki/v2rayn) | [flclash](https://github.com/clashbk/clash/wiki/flclash) |
-## v2rayN使用教程
-
-[最新v2rayN使用教程：v2rayN从入门到精通](https://clashgithub.com/v2rayn.html) 
-
-## 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
-
-## 高速机场推荐1:【 ORYMI 】
-
-免费套餐 (抵扣码：FR666)
-
-- 套餐流量：20 GB
-- 带宽限制：5 Mbps
-- 优质隧道专线
-- 全平台客户端支持
-- 同时在线设备：2 台
-- 免费观看netflix、disney+、primevideo、hbomax
-
-网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  九折优惠码：LxwSsaay
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## 高速机场推荐2：【星辰加速】
-
-轻量型  9元/月
-
-- 流量：150 GB
-- 速度限制：∞ Gbps
-- 同时在线设备：不限制 台
-- 流量按月重置
-- 支持多平台使用
-- 解锁流媒体及ChatGPT
-- 免账号观看disney+
-
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  九折优惠码：3UJuVnqS
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## v2ray免费节点订阅  
-- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202603232`  
-
-## v2ray免费节点分享
-
-```  
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q21jUTZkRjhMRXlaVTBZc01qZ3U4@77.73.68.155:54106#RU%20SS-01%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTY4ZDRiZDAwMjQzN2Fi@149.104.71.134:11201#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWjliYTNHd0RMLXJuNkRTUTBOLWF3SE5oY3V4YUhQMw==@auto.poland.ray-vpn.ru:4495#%E6%9C%AA%E7%9F%A5%20SS-03%20%7C%20free-nodes
@@ -227,6 +175,3 @@ vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@s677.ccgfw.top:443?encryption=none&
 vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@s642.ccgfw.top:443?encryption=none&type=tcp&headerType=none&fp=random&host=s642.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u710948u4c78s642.ccgfw.top&serviceName=&mode=&alpn=#GB%20VLESS-175%20%7C%20free-nodes
 vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@s392.ccgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s392.ccgfw.top&path=&flow=&security=tls&sni=u710948u635fs392.ccgfw.top&serviceName=ssp&mode=gun&alpn=#US%20VLESS-176%20%7C%20free-nodes
 vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@158.51.99.69:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s394.ccgfw.top&path=&flow=&security=tls&sni=u710948u85f7s394.ccgfw.top&serviceName=ssp&mode=gun&alpn=#US%20VLESS-177%20%7C%20free-nodes
-```
-
-更多推荐：[免费节点](https://clashgithub.com)   [clash节点](https://github.com/free-nodes/clashfree)  [clash官网导航](https://github.com/clashbk/clash)
