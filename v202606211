@@ -1,55 +1,3 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2026-06-21 01:38:23  
-所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
-
-## 客户端
-
-| Windows                                                | Android                                                      | iOS                                                          | macOS                                                    |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-| [v2rayN](https://github.com/clashbk/clash/wiki/v2rayn) | [Clash Meta for Android](https://github.com/clashbk/clash/wiki/clash-meta-for-android) | [shadowrocket](https://github.com/clashbk/clash/wiki/v2rayn) | [flclash](https://github.com/clashbk/clash/wiki/flclash) |
-## v2rayN使用教程
-
-[最新v2rayN使用教程：v2rayN从入门到精通](https://clashgithub.com/v2rayn.html) 
-
-## 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
-
-## 高速机场推荐1:【 ORYMI 】
-
-免费套餐 (抵扣码：FR666)
-
-- 套餐流量：20 GB
-- 带宽限制：5 Mbps
-- 优质隧道专线
-- 全平台客户端支持
-- 同时在线设备：2 台
-- 免费观看netflix、disney+、primevideo、hbomax
-
-网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  九折优惠码：LxwSsaay
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## 高速机场推荐2：【星辰加速】
-
-轻量型  9元/月
-
-- 流量：150 GB
-- 速度限制：∞ Gbps
-- 同时在线设备：不限制 台
-- 流量按月重置
-- 支持多平台使用
-- 解锁流媒体及ChatGPT
-- 免账号观看disney+
-
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  九折优惠码：3UJuVnqS
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## v2ray免费节点订阅  
-- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202606212`  
-
-## v2ray免费节点分享
-
-```  
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:150:5400:6ff:fe44:1cfd]:443?sni=u729792us3785.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-01%20%7C%20free-nodes
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:4410:5400:6ff:fe43:9d50]:443?sni=u729792us3635.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-02%20%7C%20free-nodes
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:4425:5400:6ff:fe40:9725]:443?sni=u729792us2760.wagahaha.xyz&alpn=h3&mport=30000-32000&hopinterval=30s#%E6%9C%AA%E7%9F%A5%20HY2-03%20%7C%20free-nodes
@@ -502,6 +450,3 @@ hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@198.12.124.74:443?sni=u711540us
 vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?encryption=none&type=xhttp&headerType=&fp=random&host=s1243.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u711540us1243.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#GB%20VLESS-450%20%7C%20free-nodes
 hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@193.142.59.97:443?sni=u711540us1244.csgfw.top&alpn=h3&mport=30000-32000&hopinterval=30s#GB%20HY2-451%20%7C%20free-nodes
 vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@[2a13:29c0:fc75:90b0:df84:b8d4:d3aa:1]:443?encryption=none&type=xhttp&headerType=&fp=random&host=s1246.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u711540us1246.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#GB%20VLESS-452%20%7C%20free-nodes
-```
-
-更多推荐：[免费节点](https://clashgithub.com)   [clash节点](https://github.com/free-nodes/clashfree)  [clash官网导航](https://github.com/clashbk/clash)
