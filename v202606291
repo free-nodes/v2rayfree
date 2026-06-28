@@ -1,55 +1,3 @@
-# 最新公益免费v2ray节点订阅地址、免费节点每日更新  更新时间 2026-06-29 01:17:39  
-所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
-
-## 客户端
-
-| Windows                                                | Android                                                      | iOS                                                          | macOS                                                    |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-| [v2rayN](https://github.com/clashbk/clash/wiki/v2rayn) | [Clash Meta for Android](https://github.com/clashbk/clash/wiki/clash-meta-for-android) | [shadowrocket](https://github.com/clashbk/clash/wiki/v2rayn) | [flclash](https://github.com/clashbk/clash/wiki/flclash) |
-## v2rayN使用教程
-
-[最新v2rayN使用教程：v2rayN从入门到精通](https://clashgithub.com/v2rayn.html) 
-
-## 节点导入方法  
-CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
-
-## 高速机场推荐1:【 ORYMI 】
-
-免费套餐 (抵扣码：FR666)
-
-- 套餐流量：20 GB
-- 带宽限制：5 Mbps
-- 优质隧道专线
-- 全平台客户端支持
-- 同时在线设备：2 台
-- 免费观看netflix、disney+、primevideo、hbomax
-
-网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  九折优惠码：LxwSsaay
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## 高速机场推荐2：【星辰加速】
-
-轻量型  9元/月
-
-- 流量：150 GB
-- 速度限制：∞ Gbps
-- 同时在线设备：不限制 台
-- 流量按月重置
-- 支持多平台使用
-- 解锁流媒体及ChatGPT
-- 免账号观看disney+
-
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】  九折优惠码：3UJuVnqS
-
-注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
-
-## v2ray免费节点订阅  
-- `https://raw.githubusercontent.com/free-nodes/v2rayfree/main/v202606292`  
-
-## v2ray免费节点分享
-
-```  
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M1VlYlltOEhXOERVN2lNczFPMHBldz09@47.80.24.245:8127#%E6%9C%AA%E7%9F%A5%20SS-01%20%7C%20free-nodes
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WjcraWhDYWhsNHY4VVVZQ2dQdjkzdz09@192.3.196.182:8416#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THVTUWx1V3MzbWVBeTV2T283aWta@80.208.229.172:443#%E6%9C%AA%E7%9F%A5%20SS-03%20%7C%20free-nodes
@@ -687,6 +635,3 @@ vless://9794d18f-9280-3553-a7a5-a23da75aca76@66.245.221.167:443?encryption=none&
 vless://9794d18f-9280-3553-a7a5-a23da75aca76@64.176.45.57:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=413ad316s7488.gogocs.xyz&path=883d8fc21aca7725d2c2caf512650d9d&flow=&security=tls&sni=u691611u413ad316s7488.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1&extra=%7B%22headers%22%3A%7B%22Xhttp-Verify%22%3A%2216477a65-32f4-4a80-a060-f21b3963c3bd%22%7D%7D#JP%20VLESS-635%20%7C%20free-nodes
 vless://9794d18f-9280-3553-a7a5-a23da75aca76@108.160.143.27:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=bf201d7fs7446.gogocs.xyz&path=b363f5bee86d19f55a98e2e2faf7d6d4&flow=&security=tls&sni=u691611ubf201d7fs7446.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#JP%20VLESS-636%20%7C%20free-nodes
 vless://9794d18f-9280-3553-a7a5-a23da75aca76@198.13.53.137:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=356302c2s7608.gogocs.xyz&path=53092bdfc81bc9129c671d3951c4a294&flow=&security=tls&sni=u691611u356302c2s7608.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1&extra=%7B%22downloadSettings%22%3A%7B%22address%22%3A%22198.13.53.137%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22security%22%3A%22tls%22%2C%22t#%E6%9C%AA%E7%9F%A5%20VLESS-637%20%7C%20free-nodes
-```
-
-更多推荐：[免费节点](https://clashgithub.com)   [clash节点](https://github.com/free-nodes/clashfree)  [clash官网导航](https://github.com/clashbk/clash)
