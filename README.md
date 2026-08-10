@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-08-10 21:42:18  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-08-11 00:56:56  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -34,7 +34,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 
 - 上方订阅地址二维码
 
-  ![](https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub.png)
+  <img src="https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub.png" style="zoom:50%;" />
 
 ## 高速机场推荐:【 ORYMI 】
 
@@ -51,6 +51,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】  九折优惠码：LxwSsaay
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
+
+**👉[免费、实用的在线工具](https://tools12345.com/)**
 
 ## Windows、Android、IOS、macOS 全平台客户端
 
