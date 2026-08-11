@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-08-11 08:26:22  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-08-11 10:00:38  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -34,7 +34,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 
 - 上方订阅地址二维码
 
-  <img src="https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub.png" style="zoom:50%;" />
+  ![](https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub.png)
 
 ## 高速机场推荐:【 ORYMI 】
 
@@ -52,7 +52,23 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 
-**👉[免费、实用的在线工具](https://tools12345.com/)**
+## 高速机场推荐2：【星辰加速】
+
+轻量型 9元/月
+
+- 流量：150 GB
+- 速度限制：∞ Gbps
+- 同时在线设备：不限制 台
+- 流量按月重置
+- 支持多平台使用
+- 解锁流媒体及ChatGPT等AI
+- 免账号观看disney+
+
+网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 九折优惠码：3UJuVnqS
+
+注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
+
+**👉[免费、实用的在线工具](https://tools12345.com/zh)**
 
 ## Windows、Android、IOS、macOS 全平台客户端
 
