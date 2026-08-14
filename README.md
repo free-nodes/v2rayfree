@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-08-14 17:10:35  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-08-14 21:14:11  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -6,26 +6,26 @@
 ### 免费节点列表：(这里最多只显示20个节点，其他免费节点请扫描永久订阅地址)
 
 ```  
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MUhNL3g3U1VKMXVIUm1BQ2ZIYlUwNTFlVjV2bU5MdEcrZlQ5QVhlb0VxMD0@137.131.248.115:59319#%E6%9C%AA%E7%9F%A5%20SS-01%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MmVjSDZLalo0N1BGdnM5MGVOdDFBQXN0bFQzbjVlWmVyZ0QyTzVJWEVhcz0@161.153.115.187:50356#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MmVjSDZLalo0N1BGdnM5MGVOdDFBQXN0bFQzbjVlWmVyZ0QyTzVJWEVhcz0@161.153.115.187:50356#%E6%9C%AA%E7%9F%A5%20SS-01%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N3BUdWVuMndQT0ZwZkNUdnNRQ1cvekUzNWQ5ekxxb2lZb0k5TEVkK3Q2cz0@163.176.254.175:59319#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6N3FLZ2tGUGl1RTdTYmFnSnY5UWp5YjFRWEhQRU1pMnR1RW5WYWF2d2hjTT0@147.15.91.100:59319#%E6%9C%AA%E7%9F%A5%20SS-03%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TTFIYTJPNVFNQ3FVcEl0OFhndms0MmM0Tldxc010NnoxdFJOWjNnTVcvWT0@163.176.36.206:59319#%E6%9C%AA%E7%9F%A5%20SS-04%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6V0M3WTUzcTI1SW1PSm1SL0tPd3pjMUVjNzdrWHRMNU94bTdSUjlNZVJYbz0@163.176.167.126:59319#%E6%9C%AA%E7%9F%A5%20SS-05%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VElBOGtPckhLRnBjRWFta0xDcktKakpYaFV1am1wVzdONnZwNXJ0V2gyST0@129.151.94.56:61312#%E6%9C%AA%E7%9F%A5%20SS-06%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Vm14Nk0rVUtEelF4elhmRnkrSmVLZThKN0NVTWRyQS9wV2U5aE1weUdLWT0@164.152.41.210:59319#%E6%9C%AA%E7%9F%A5%20SS-07%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WUpKeTdkazJnektPd3Vvd3JzSit2NlFaR0V5MHEwR1p5QzBuNE5IZzhwaz0@163.176.175.199:59319#%E6%9C%AA%E7%9F%A5%20SS-08%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WmlxMnlEQ2JDWDBXNkdHTkMwYmE0TDk5SUxON0NWa3dabmh0YXNkL3lFVT0@129.146.79.29:50356#%E6%9C%AA%E7%9F%A5%20SS-09%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M1VlYlltOEhXOERVN2lNczFPMHBldz09@47.80.24.245:8127#%E6%9C%AA%E7%9F%A5%20SS-10%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206NWpmck1vU0dQU1IxRnF3VEZ0cGM4Zz09@47.88.85.254:23226#%E6%9C%AA%E7%9F%A5%20SS-11%20%7C%20free-nodes
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WjcraWhDYWhsNHY4VVVZQ2dQdjkzdz09@192.3.196.182:8416#%E6%9C%AA%E7%9F%A5%20SS-12%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THVTUWx1V3MzbWVBeTV2T283aWta@80.208.229.172:443#%E6%9C%AA%E7%9F%A5%20SS-13%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#%E6%9C%AA%E7%9F%A5%20SS-14%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#%E6%9C%AA%E7%9F%A5%20SS-15%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.041.node-for-bigairport.win:16688#%E6%9C%AA%E7%9F%A5%20SS-16%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU=@ss.047.node-for-bigairport.win:19001#%E6%9C%AA%E7%9F%A5%20SS-17%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmU@ss.045.node-for-bigairport.win:19000#%E6%9C%AA%E7%9F%A5%20SS-18%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#%E6%9C%AA%E7%9F%A5%20SS-19%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#%E6%9C%AA%E7%9F%A5%20SS-20%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6NDFWN1BTSlNCUzdmN0FnRFp5WUVtNVpjUC9ydVlsM09Gam81d1dUT2hpND0@147.15.18.110:59319#%E6%9C%AA%E7%9F%A5%20SS-04%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OWpicjRyTi9qVUhBRHJYQXZ6b3R0NGpBcmRFN3A5a21HOVlhMkRKdy9pdz0@163.176.115.182:59319#%E6%9C%AA%E7%9F%A5%20SS-05%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6T2R3bDZmVFptWnJCY2FIMldORElocUR1NE1aTy81eUZDVE8yQ2VOOEc1TT0@163.176.212.36:59319#%E6%9C%AA%E7%9F%A5%20SS-06%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TTFIYTJPNVFNQ3FVcEl0OFhndms0MmM0Tldxc010NnoxdFJOWjNnTVcvWT0@163.176.36.206:59319#%E6%9C%AA%E7%9F%A5%20SS-07%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6V3kxVUltam40c2xJTUdrN2FscmFrdCt5eWw5WUhYQ01odE81UnlwWERQRT0@163.176.240.6:59319#%E6%9C%AA%E7%9F%A5%20SS-08%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VDhUdEVZSEFxSnY1N2tTakpzamlLeFRJZkRndVQ3T1c4U1JGMndBWTdtTT0@163.176.64.177:59319#%E6%9C%AA%E7%9F%A5%20SS-09%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VElBOGtPckhLRnBjRWFta0xDcktKakpYaFV1am1wVzdONnZwNXJ0V2gyST0@129.151.94.56:61312#%E6%9C%AA%E7%9F%A5%20SS-10%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6WUpKeTdkazJnektPd3Vvd3JzSit2NlFaR0V5MHEwR1p5QzBuNE5IZzhwaz0@163.176.175.199:59319#%E6%9C%AA%E7%9F%A5%20SS-11%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dG1Ob0lURGxCQzZ1R3B2UFlqb3U3UFpLQUgyTU9zOXRIamlnMzcrVFQvUT0@163.176.85.126:59319#%E6%9C%AA%E7%9F%A5%20SS-12%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6dm0vNTR4NngxanNoVzhUSDVCUE8yTUFNdFExTTVlc3JGcGIrRHlkU2Joaz0@163.176.64.97:59319#%E6%9C%AA%E7%9F%A5%20SS-13%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eEJLUk9Fd2NFQkM4U1lJc21yS0o1Zkl6ODVlTkZoTVZrNHF5NHpiblBkMD0@164.152.59.44:59319#%E6%9C%AA%E7%9F%A5%20SS-14%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6enZGMDhCd2QyajE3cjNTZytWSUZSS3ZGOUp1SHFtOWU0QUpNOG9wZWZZMD0@163.176.9.233:59319#%E6%9C%AA%E7%9F%A5%20SS-15%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206M1VlYlltOEhXOERVN2lNczFPMHBldz09@47.80.24.245:8127#%E6%9C%AA%E7%9F%A5%20SS-16%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206NWpmck1vU0dQU1IxRnF3VEZ0cGM4Zz09@47.88.85.254:23226#%E6%9C%AA%E7%9F%A5%20SS-17%20%7C%20free-nodes
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WjcraWhDYWhsNHY4VVVZQ2dQdjkzdz09@192.3.196.182:8416#%E6%9C%AA%E7%9F%A5%20SS-18%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0THVTUWx1V3MzbWVBeTV2T283aWta@80.208.229.172:443#%E6%9C%AA%E7%9F%A5%20SS-19%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#%E6%9C%AA%E7%9F%A5%20SS-20%20%7C%20free-nodes
 ```
 
 ### 永久订阅地址 
@@ -119,7 +119,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@
 | ICO                                                          | 客户端              | 版本号                                                       | 下载地址                                                     | 配置教程                                                     | 更新日期                                                     |
 | ------------------------------------------------------------ | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/v2rayN.png)](https://github.com/free-nodes/fanqiang/blob/main/assets/v2rayN.png) | **V2rayN**          | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/v2rayN-1779243844526-196.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/v2rayN-1779243844526-196.svg) | [GitHub 下载](https://github.com/2dust/v2rayN/releases)      | [配置教程](https://github.com/clashbk/clash/wiki/v2rayn)     | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/v2rayN-1779243844519-184.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/v2rayN-1779243844519-184.svg) |
-| [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/Surge-Mac.png)](https://github.com/free-nodes/fanqiang/blob/main/assets/Surge-Mac.png) | **Surge Mac**       | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/%E5%AE%98%20%E7%BD%91-%20v5.9.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/官 网- v5.9.svg) | [官网下载](https://nssurge.com/)                             | 配置教程                                                     | [发布版本](https://www.nssurge.com/mac/v5/appcast-signed.xml) / [测试版本](https://www.nssurge.com/mac/v5/appcast-signed-beta.xml) |
+| [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/Surge-Mac.png)](https://github.com/free-nodes/fanqiang/blob/main/assets/Surge-Mac.png) | **Surge Mac**       | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/%E5%AE%98%20%E7%BD%91-%20v5.9.svg)](https://raw.githubusercontent.com/free-nodes/fanqiang/main/assets/%E5%AE%98%20%E7%BD%91-%20v5.9.svg) | [官网下载](https://nssurge.com/)                             | 配置教程                                                     | [发布版本](https://www.nssurge.com/mac/v5/appcast-signed.xml) / [测试版本](https://www.nssurge.com/mac/v5/appcast-signed-beta.xml) |
 | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/Clash-Verge-Rev.png)](https://github.com/free-nodes/fanqiang/blob/main/assets/Clash-Verge-Rev.png) | **Clash Verge Rev** | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/clash-verge-rev.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/clash-verge-rev.svg) | [GitHub 下载](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [配置教程](https://github.com/clashbk/clash/wiki/clash-verge-rev) | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/clash-verge-rev-1779243844520-186.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/clash-verge-rev-1779243844520-186.svg) |
 | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/mihomo-party.png)](https://github.com/free-nodes/fanqiang/blob/main/assets/mihomo-party.png) | **Mihome Party**    | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/mihomo-party.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/mihomo-party.svg) | [GitHub 下载](https://github.com/mihomo-party-org/mihomo-party/releases) | [配置教程](https://github.com/clashbk/clash/wiki/clash-party) | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/mihomo-party-1779243844521-188.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/mihomo-party-1779243844521-188.svg) |
 | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/Hiddify.png)](https://github.com/free-nodes/fanqiang/blob/main/assets/Hiddify.png) | **Hiddify**         | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/hiddify-app.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/hiddify-app.svg) | [GitHub 下载](https://github.com/hiddify/hiddify-app/releases) | [配置教程](https://github.com/clashbk/clash/wiki/hiddify-next) | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/hiddify-app-1779243844520-187.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/hiddify-app-1779243844520-187.svg) |
