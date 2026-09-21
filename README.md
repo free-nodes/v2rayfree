@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-09-21 06:17:09  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-09-21 12:10:43  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -149,4 +149,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MVhleWRaQi9seDY0TUhjZVE5cE90cy9ONDI
 | **Clash**                     | OpenWrt  | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/luci-app-clash.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/luci-app-clash.svg) | [GitHub](https://github.com/frainzy1477/luci-app-clash)      | 配置教程                                                     | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/luci-app-clash-1779243844528-203.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/luci-app-clash-1779243844528-203.svg) |
 | **FancySS_arm**               | Merlin   | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/fancyss.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/fancyss.svg) | [GitHub](https://github.com/hq450/fancyss)                   | 配置教程                                                     | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/fancyss-1779243844528-204.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/fancyss-1779243844528-204.svg) |
 | **Merlin Clash**              | Merlin   | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/official-404-C0C0C0.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/official-404-C0C0C0.svg) | [官方文档](https://mcreadme.gitbook.io/mc)                   | 配置教程                                                     | [![img](https://github.com/free-nodes/fanqiang/raw/main/assets/official-404-C0C0C0.svg)](https://github.com/free-nodes/fanqiang/blob/main/assets/official-404-C0C0C0.svg) |
+
+**👉[Shadowrocket 共享账号](https://shareid.tools12345.com)**
 
