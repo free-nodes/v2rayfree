@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-09-30 12:50:26  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-09-30 22:45:24  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -64,7 +64,7 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TWJZbXVNTGFCMjk5K2IrdEhPNWxURGl6dXF
 - 解锁流媒体及ChatGPT等AI
 - 免账号观看disney+
 
-网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 九折优惠码：3UJuVnqS
+网站地址：【[星辰加速（点击注册）](https://www.starlinkboost.com/#/register?code=9kfk8enH)】 九折优惠码：3UJuVnqS
 
 注：跳转链接可能会 **被墙** ，如多次打开失败，请先使用下面不稳定免费订阅后，再尝试点击链接
 
