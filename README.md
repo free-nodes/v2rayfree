@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-02 17:12:00  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-03 02:00:49  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -19,6 +19,13 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#%E6%9C%AA%E7%9F%A5%20SS-11%20%7C%20free-nodes
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&alpn=http/1.1%2Ch2&fp=qq&security=tls#RU%20VLESS-12%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.46.27:18443#RU%20SS-13%20%7C%20free-nodes
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIFZNRVNTLTE0IHwgZnJlZS1ub2RlcyIsImFkZCI6IjE5Mi4wLjIuMSIsInBvcnQiOiIxIiwiaWQiOiI2YzZhMDYyNS1hYzNmLTRiZDgtOWNjOC0wNTQ1ZTRlMTE0MDkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInNlcnZpY2VOYW1lIjoiIiwibW9kZSI6IiIsImFscG4iOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIFZNRVNTLTE1IHwgZnJlZS1ub2RlcyIsImFkZCI6IjE5Mi4wLjIuMSIsInBvcnQiOiIxIiwiaWQiOiI2YzZhMDYyNS1hYzNmLTRiZDgtOWNjOC0wNTQ1ZTRlMTE0MDkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInNlcnZpY2VOYW1lIjoiIiwibW9kZSI6IiIsImFscG4iOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIFZNRVNTLTE2IHwgZnJlZS1ub2RlcyIsImFkZCI6IjE5Mi4wLjIuMSIsInBvcnQiOiIxIiwiaWQiOiI2YzZhMDYyNS1hYzNmLTRiZDgtOWNjOC0wNTQ1ZTRlMTE0MDkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInNlcnZpY2VOYW1lIjoiIiwibW9kZSI6IiIsImFscG4iOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lIFZNRVNTLTE3IHwgZnJlZS1ub2RlcyIsImFkZCI6IjE5Mi4wLjIuMSIsInBvcnQiOiIxIiwiaWQiOiI2YzZhMDYyNS1hYzNmLTRiZDgtOWNjOC0wNTQ1ZTRlMTE0MDkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInNlcnZpY2VOYW1lIjoiIiwibW9kZSI6IiIsImFscG4iOiIifQ==
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s849.gogocs.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=1ca41f04s848.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695098u1ca41f04s848.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#US%20VLESS-18%20%7C%20free-nodes
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?encryption=none&type=xhttp&headerType=&host=f0c5bfd6s394.fuhuovps.xyz&path=f00757d3fec0e7aca102e554fb32f21e&flow=&security=tls&sni=f0c5bfd6s394.fuhuovps.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1&ech=crypto.cloudflare.com%2Budp%3A%2F%2F223.5.5.5#RU%20VLESS-19%20%7C%20free-nodes
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?encryption=none&type=xhttp&headerType=&host=f0c5bfd6s394.fuhuovps.xyz&path=f00757d3fec0e7aca102e554fb32f21e&flow=&security=tls&sni=f0c5bfd6s394.fuhuovps.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1&ech=crypto.cloudflare.com%2Budp%3A%2F%2F223.5.5.5#RU%20VLESS-20%20%7C%20free-nodes
 ```
 
 ### 永久订阅地址 
