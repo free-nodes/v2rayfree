@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-11 13:27:40  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-11 23:57:33  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -6,26 +6,26 @@
 ### 免费节点列表：(这里最多只显示20个节点，其他免费节点请扫描永久订阅地址)
 
 ```  
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%9C%AA%E7%9F%A5%20SS-01%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%E6%9C%AA%E7%9F%A5%20SS-03%20%7C%20free-nodes
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=dkfsoyk9ju2as.cloudfront.net&packetEncoding=none&allowInsecure=1&sni=dkfsoyk9ju2as.cloudfront.net&fp=chrome#FR%20VLESS-04%20%7C%20free-nodes
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?security=tls&type=xhttp&path=%2F455fc4c251ca8ce9fd6ce94870833c49&host=d31e28d1s298.kuback.top&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=d31e28d1s298.kuback.top&fp=chrome&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_%22%2C%22xPaddingHeader%22%3A%22X-Forwarded-Uri%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&encryption=none#HK%20VLESS-05%20%7C%20free-nodes
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@www.codex2api.com:443?security=tls&type=xhttp&path=%2F48a0348bf803e0097405a138424f4890&host=86f9dec4s478.kuback.top&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=86f9dec4s478.kuback.top&fp=chrome&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22_%22%2C%22xPaddingHeader%22%3A%22X-Forwarded-Uri%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingMethod%22%3A%22tokenish%22%7D&encryption=none#US%20VLESS-06%20%7C%20free-nodes
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?security=reality&type=grpc&mode=gun&serviceName=204adda7e3da&packetEncoding=xudp&sni=717252g.nl8.h1clayd.click&fp=firefox&sid=d3bd772514c87d28&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&encryption=none#%E6%9C%AA%E7%9F%A5%20VLESS-07%20%7C%20free-nodes
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#%E6%9C%AA%E7%9F%A5%20VLESS-08%20%7C%20free-nodes
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=d14jyezfrcyf60.cloudfront.net&packetEncoding=xudp&sni=d14jyezfrcyf60.cloudfront.net&fp=chrome#FR%20VLESS-09%20%7C%20free-nodes
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=d2ex4nxd2e01ub.cloudfront.net&packetEncoding=xudp&alpn=http%2F1.1&sni=d2ex4nxd2e01ub.cloudfront.net&fp=qq&encryption=none#%E6%9C%AA%E7%9F%A5%20VLESS-10%20%7C%20free-nodes
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=d1aedflfr97jes.cloudfront.net&packetEncoding=xudp&alpn=http%2F1.1&sni=d1aedflfr97jes.cloudfront.net&fp=chrome&encryption=none#FR%20VLESS-11%20%7C%20free-nodes
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=d1m31xp31bswc2.cloudfront.net&packetEncoding=xudp&alpn=http%2F1.1&sni=d1m31xp31bswc2.cloudfront.net&fp=chrome&encryption=none#FR%20VLESS-12%20%7C%20free-nodes
-hysteria2://8VPFWgN7mbwHWxTC@singapore.062888.xyz:443?insecure=1&sni=www.microsoft.com#SG%20HY2-13%20%7C%20free-nodes
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:35460?security=reality&type=tcp&packetEncoding=xudp&sni=psstatic.cdn.bcebos.com&fp=ios&flow=xtls-rprx-vision&sid=30d976db3eab32&pbk=mkVsbEvwaiSo9QwnrVN65YZ92QntQQyYs2iDxN6yTlw#SG%20VLESS-14%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#DE%20SS-15%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#DE%20SS-16%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#DE%20SS-17%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999?#DE%20SS-18%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#DE%20SS-19%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?#DE%20SS-20%20%7C%20free-nodes
+hysteria2://68a93e46-d251-45a8-8148-cf3601451021@a6.mhlnf.cn:21396?insecure=1&sni=www.bing.com#SG%20HY2-01%20%7C%20free-nodes
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46105?security=reality&type=tcp&packetEncoding=xudp&sni=www.lamer.com.sg&fp=chrome&flow=xtls-rprx-vision&sid=28f5c1f8f98a&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik#SG%20VLESS-02%20%7C%20free-nodes
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=dkfsoyk9ju2as.cloudfront.net&packetEncoding=none&allowInsecure=1&sni=dkfsoyk9ju2as.cloudfront.net&fp=chrome#FR%20VLESS-03%20%7C%20free-nodes
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?sni=hk.catxstar.com&allowInsecure=1&type=tcp#TR%20TROJAN-04%20%7C%20free-nodes
+hysteria2://30f5e94a-3e13-4270-9f90-60827bef6671@141.147.160.26:443?insecure=1&sni=bing.com&mport=443,8443#JP%20HY2-05%20%7C%20free-nodes
+hysteria2://30f5e94a-3e13-4270-9f90-60827bef6671@161.33.152.237:443?insecure=1&sni=bing.com&mport=443,8443#JP%20HY2-06%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@118.163.198.43:2377/?plugin=simple-obfs%3Bobfs%3Dtls%3Bobfs-host%3D88a027c.dl.microsoft.lu%3A14333#TW%20SS-07%20%7C%20free-nodes
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=dkfsoyk9ju2as.cloudfront.net&packetEncoding=xudp&alpn=http%2F1.1&sni=dkfsoyk9ju2as.cloudfront.net&fp=chrome&encryption=none#FR%20VLESS-08%20%7C%20free-nodes
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#%E6%9C%AA%E7%9F%A5%20VLESS-09%20%7C%20free-nodes
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:35460?security=reality&type=tcp&packetEncoding=xudp&sni=psstatic.cdn.bcebos.com&fp=ios&flow=xtls-rprx-vision&sid=30d976db3eab32&pbk=mkVsbEvwaiSo9QwnrVN65YZ92QntQQyYs2iDxN6yTlw#SG%20VLESS-10%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#DE%20SS-11%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#DE%20SS-12%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#DE%20SS-13%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999?#DE%20SS-14%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#DE%20SS-15%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?#DE%20SS-16%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?#DE%20SS-17%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999?#DE%20SS-18%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999?#DE%20SS-19%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999?#DE%20SS-20%20%7C%20free-nodes
 ```
 
 ### 永久订阅地址 
