@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-16 13:39:35  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-17 02:07:58  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -6,9 +6,9 @@
 ### 免费节点列表：(这里最多只显示20个节点，其他免费节点请扫描永久订阅地址)
 
 ```  
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?sni=hk.catxstar.com&allowInsecure=1&type=tcp&fp=chrome#TR%20TROJAN-01%20%7C%20free-nodes
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?sni=hk.catxstar.com&type=tcp&fp=chrome#TR%20TROJAN-02%20%7C%20free-nodes
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?sni=sclass-b1.catcat321.com&allowInsecure=1&type=tcp#TR%20TROJAN-03%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%E6%9C%AA%E7%9F%A5%20SS-01%20%7C%20free-nodes
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?security=reality&type=tcp&packetEncoding=none&sni=psstatic.cdn.bcebos.com&fp=firefox&flow=xtls-rprx-vision&sid=15aa0ad4&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE#JP%20VLESS-02%20%7C%20free-nodes
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#%E6%9C%AA%E7%9F%A5%20VLESS-03%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#DE%20SS-04%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#DE%20SS-05%20%7C%20free-nodes
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#DE%20SS-06%20%7C%20free-nodes
