@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-26 16:01:06  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-27 02:17:35  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -6,26 +6,26 @@
 ### 免费节点列表：(这里最多只显示20个节点，其他免费节点请扫描永久订阅地址)
 
 ```  
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%E6%9C%AA%E7%9F%A5%20SS-01%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%E6%9C%AA%E7%9F%A5%20SS-03%20%7C%20free-nodes
-vless://9a591702-24c7-4abf-9f14-ac59438a64e6@176.114.95.249:443?security=none&type=tcp&packetEncoding=xudp&encryption=mlkem768x25519plus.native.0rtt.nHoPNLMt_oBBrE9YodTzva_TCX4cF2Tz2ReH_jRwqCo#%E6%9C%AA%E7%9F%A5%20VLESS-04%20%7C%20free-nodes
-vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:38101?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=d5a01375&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM#HK%20VLESS-05%20%7C%20free-nodes
-vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:38105?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=7e7e8c23&pbk=y0p1yI8OoWqcOE4XEv7ueudaSOOc5UIb5yFyA3SstD8#JP%20VLESS-06%20%7C%20free-nodes
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.57:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-07%20%7C%20free-nodes
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-08%20%7C%20free-nodes
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-09%20%7C%20free-nodes
-vless://db4b5d79-a741-41c8-9769-c1ba3d7ac374@89.44.80.204:443?security=tls&type=xhttp&path=%2F&host=145.baklajann.ru&packetEncoding=xudp&sni=145.baklajann.ru&fp=chrome&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A%224%22%2C%22maxConcurrency%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%220%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&encryption=none#FR%20VLESS-10%20%7C%20free-nodes
-vless://201d6c87-5de6-4bda-973c-024129b228fb@ct.877774.xyz:443?security=tls&type=ws&path=%2Fannouncement%3Fed%3D2048&host=ap-south.862400.xyz&packetEncoding=xudp&sni=ap-south.862400.xyz&fp=random&encryption=none#SG%20VLESS-11%20%7C%20free-nodes
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@f309e0t.fi4.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=f309e0t.fi4.h1clayd.click&fp=firefox&flow=xtls-rprx-vision&sid=6fddab1e1e358290&pbk=tZoiwNSZeaVBoLJJcXe9A-GzCtbvU95fKkAJLc0vrgU&encryption=none#%E6%9C%AA%E7%9F%A5%20VLESS-12%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#DE%20SS-13%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#DE%20SS-14%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#DE%20SS-15%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999?#DE%20SS-16%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#DE%20SS-17%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?#DE%20SS-18%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?#DE%20SS-19%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999?#DE%20SS-20%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@waic.pro.main.sys-metric-report.com:28014#HK%20SS-01%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%9C%AA%E7%9F%A5%20SS-02%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%E6%9C%AA%E7%9F%A5%20SS-03%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%E6%9C%AA%E7%9F%A5%20SS-04%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%9C%AA%E7%9F%A5%20SS-05%20%7C%20free-nodes
+vless://d235ad20-8f30-441e-871e-ee2695e4c430@vl-x2.qz10086.top:37998?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=d5a01375&pbk=j7lihAdLvNKWg67WMGQsRSM8WFbaUK5dAi7D2R7iXHM#SG%20VLESS-06%20%7C%20free-nodes
+vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-1-x.473221.xyz:43113?security=reality&type=tcp&packetEncoding=xudp&sni=v1-dy.ixigua.com&fp=edge&flow=xtls-rprx-vision&sid=ff2c978a0b&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs#SG%20VLESS-07%20%7C%20free-nodes
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?sni=66.163.114.114&allowInsecure=1&type=tcp#US%20TROJAN-08%20%7C%20free-nodes
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com&allowInsecure=1&type=tcp#US%20TROJAN-09%20%7C%20free-nodes
+ss://2022-blake3-chacha20-poly1305:8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y%3D@47.254.167.157:443#DE%20SS-10%20%7C%20free-nodes
+vless://eb83b44c-ad8c-4658-9923-313e59bb4d5e@sw6.yndx-game.com:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=sw6.yndx-game.com&fp=chrome&flow=xtls-rprx-vision&encryption=none#%E6%9C%AA%E7%9F%A5%20VLESS-11%20%7C%20free-nodes
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-12%20%7C%20free-nodes
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.57:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-13%20%7C%20free-nodes
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-14%20%7C%20free-nodes
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-15%20%7C%20free-nodes
+hysteria2://lvu_3390f238bef4e3058ac47c87473755cf_07cd5acf7265adf5c1210040ca46facf%3Anp2.1.HJjJucZ0-OZZUq5Njkl48v1gYx7ol9rXjxYXZUxrQdM@194.87.224.137:15443?sni=n9.neproxy.net#%E6%9C%AA%E7%9F%A5%20HY2-16%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTE3Yjk2ZTA4NGVhNjdhMGYyMTAzMWYxMjg0ZjllZTllMWQ4MzczMjFjZTYzNjI=@denmark.astroapps.io:443/?plugin=v2ray-plugin%3Bobfs%3Dwebsocket%3Bmode%3Dwebsocket%3Bobfs-host%3Ddenmark.astroapps.io%3Bhost%3Ddenmark.astroapps.io%3Bpath%3D%2Fad37249091fe1c6ac69e8c23%3Btls#%E6%9C%AA%E7%9F%A5%20SS-17%20%7C%20free-nodes
+hysteria2://ad80d93f-8b35-4b0e-861d-128813efc7d1@31.58.234.101:30443?sni=sync46.lernkino.online#%E6%9C%AA%E7%9F%A5%20HY2-18%20%7C%20free-nodes
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODI1NmZkZjYwN2E4MDE1YTAyYjQ2ZGYxNTYzYzJmMzVlYmFmZjBkNTZmMjkyM2E=@hongkong.astroapps.io:443/?plugin=v2ray-plugin%3Bobfs%3Dwebsocket%3Bmode%3Dwebsocket%3Bobfs-host%3Dhongkong.astroapps.io%3Bhost%3Dhongkong.astroapps.io%3Bpath%3D%2Fba91191d41f96668df6fe14b%3Btls#HK%20SS-19%20%7C%20free-nodes
+vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.177.60:443?security=tls&type=xhttp&packetEncoding=xudp&sni=cab-6b07048f.ferrin.uk&fp=safari&mode=auto&encryption=none#%E6%9C%AA%E7%9F%A5%20VLESS-20%20%7C%20free-nodes
 ```
 
 ### 永久订阅地址 
