@@ -1,4 +1,4 @@
-# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-28 07:57:00  
+# 最新公益免费节点订阅地址每日更新  更新时间 2026-11-28 15:01:31  
 ## 免费节点及订阅地址：
 
 > 优质节点每天实时测速更新，6小时更新一次
@@ -6,26 +6,26 @@
 ### 免费节点列表：(这里最多只显示20个节点，其他免费节点请扫描永久订阅地址)
 
 ```  
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@13.141.36.43:443?security=reality&type=tcp&packetEncoding=none&sni=6bf329t.nl18.h1clayd.click&fp=chrome&flow=xtls-rprx-vision&sid=92aee92130b46fe2&pbk=p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM#%E6%9C%AA%E7%9F%A5%20VLESS-01%20%7C%20free-nodes
-ss://2022-blake3-chacha20-poly1305:8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y%3D@47.254.167.157:443#DE%20SS-02%20%7C%20free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@waic.pro.main.sys-metric-report.com:28014#HK%20SS-03%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%E6%9C%AA%E7%9F%A5%20SS-04%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%E6%9C%AA%E7%9F%A5%20SS-05%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%E6%9C%AA%E7%9F%A5%20SS-06%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%9C%AA%E7%9F%A5%20SS-07%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%9C%AA%E7%9F%A5%20SS-08%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%E6%9C%AA%E7%9F%A5%20SS-09%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%E6%9C%AA%E7%9F%A5%20SS-10%20%7C%20free-nodes
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%E6%9C%AA%E7%9F%A5%20SS-11%20%7C%20free-nodes
-vless://1ebd4206-653e-426a-8588-7f4f09a67810@enter.toyotacamry2026.ir:1927?security=tls&type=ws&path=%2Fsignup&host=login.zanjanphone.ir&packetEncoding=xudp&sni=login.zanjanphone.ir&fp=chrome&encryption=mlkem768x25519plus.native.0rtt.LinviJ5PGGezIG1uTIoWf8e_fjkghgSnaUDj_d85wwo#US%20VLESS-12%20%7C%20free-nodes
-vless://dc780059-8b89-42d1-94eb-1c1d1bbbdd2f@quirivoo.ir:2052?security=none&type=ws&path=%2F&host=quirivoo.ir&packetEncoding=xudp&encryption=mlkem768x25519plus.native.0rtt.7cEi3EYubZPwXl754zAXJkMQRhE95FMPVVhP8613QEA#DE%20VLESS-13%20%7C%20free-nodes
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-14%20%7C%20free-nodes
-vless://da988d4c-540f-4719-896e-a878812bad69@s.22299999.xyz:443?security=tls&type=xhttp&path=%2FNgInAz8EvgxBHueA9ne8tqLzLX&host=s.22299999.xyz&packetEncoding=none&alpn=http%2F1.1&sni=s.22299999.xyz&fp=android&mode=auto#US%20VLESS-15%20%7C%20free-nodes
-vless://ec613575-5972-41c9-a50f-9577bcd96ce3@s.260920-3.kdns.fr:443?security=tls&type=xhttp&path=%2FNgInAz8EvgxBHueA9ne8tqLzLX&host=s.260920-3.kdns.fr&packetEncoding=none&alpn=http%2F1.1&sni=s.260920-3.kdns.fr&fp=android&mode=auto#US%20VLESS-16%20%7C%20free-nodes
-vless://ec613575-5972-41c9-a50f-9577bcd96ce3@bbbbb.1111-08.ccwu.cc:443?security=tls&type=xhttp&path=%2FNgInAz8EvgxBHueA9ne8tqLzLX&host=bbbbb.1111-08.ccwu.cc&packetEncoding=none&alpn=http%2F1.1&sni=bbbbb.1111-08.ccwu.cc&fp=android&mode=auto#US%20VLESS-17%20%7C%20free-nodes
-vless://d2f2639b-ff62-4553-abce-d75e231b300c@ss.444411111.xyz:443?security=tls&type=xhttp&path=%2FNgInAz8EvgxBHueA9ne8tqLzLX&host=ss.444411111.xyz&packetEncoding=none&alpn=http%2F1.1&sni=ss.444411111.xyz&fp=android&mode=auto#US%20VLESS-18%20%7C%20free-nodes
-vless://d2f2639b-ff62-4553-abce-d75e231b300c@sssss.444411111.xyz:443?security=tls&type=xhttp&path=%2FNgInAz8EvgxBHueA9ne8tqLzLX&host=sssss.444411111.xyz&packetEncoding=none&alpn=http%2F1.1&sni=sssss.444411111.xyz&fp=android&mode=auto#US%20VLESS-19%20%7C%20free-nodes
-vless://da988d4c-540f-4719-896e-a878812bad69@ddddddd.260920-1.kdns.fr:443?security=tls&type=xhttp&path=%2FNgInAz8EvgxBHueA9ne8tqLzLX&host=ddddddd.260920-1.kdns.fr&packetEncoding=none&alpn=http%2F1.1&sni=ddddddd.260920-1.kdns.fr&fp=android&mode=auto#US%20VLESS-20%20%7C%20free-nodes
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@185.174.135.219:443?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=none&sni=eeb.899themes.pro&fp=firefox&sid=27350908de933e09&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ#%E6%9C%AA%E7%9F%A5%20VLESS-01%20%7C%20free-nodes
+trojan://531d9e93-53be-4f05-a9c1-33490d4da2f3@34651e.cf.877774.xyz:443?sni=44-ml-1.ccc4vortex.top&allowInsecure=1&type=ws&path=%2Fimages&host=44-ml-1.ccc4vortex.top#SG%20TROJAN-02%20%7C%20free-nodes
+vmess://eyJ2IjoiMiIsInBzIjoiVVMgVk1FU1MtMDMgfCBmcmVlLW5vZGVzIiwiYWRkIjoiZmN0d2kueGlhb3lhbi5pbyIsInBvcnQiOiIxNjY0OCIsImlkIjoiOTY3ZmJjOTQtZmNjZC00NmMyLTkyNDEtYmU5MmQ0OTA2MTg2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiLyIsImhvc3QiOiI4NjcxNGFjYzRjYzU5MjRlODEyZGIxYzExN2RiODMyZi5tb2Jnc2xiLnRiY2FjaGUuY29tIn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%E6%9C%AA%E7%9F%A5%20SS-04%20%7C%20free-nodes
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?insecure=1&sni=mother-earth.fyi#DE%20HY2-05%20%7C%20free-nodes
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@108.181.9.242:50777?sni=iosapps.itunes.apple.com&pinSHA256=cf7790610abd92e3c38d6bcf932d34ace22b8edfa9260d6a1270722359595502#US%20HY2-06%20%7C%20free-nodes
+hysteria2://531d9e93-53be-4f05-a9c1-33490d4da2f3@108.181.10.72:50448?sni=iosapps.itunes.apple.com&pinSHA256=5514b29f6a5ca46a1af05930aeb67aca1f265bbd01515e9a1271165e835e92f0#US%20HY2-07%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#DE%20SS-08%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#DE%20SS-09%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#DE%20SS-10%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999?#DE%20SS-11%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999?#DE%20SS-12%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999?#DE%20SS-13%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999?#DE%20SS-14%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999?#DE%20SS-15%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999?#DE%20SS-16%20%7C%20free-nodes
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999?#DE%20SS-17%20%7C%20free-nodes
+vless://0a3432cd-74b8-413a-896d-f51492b030bc@104.160.44.254:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=portal.citygrainla.com&fp=firefox&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&sid=051f20c2344a2dfd&type=tcp&headerType=none&host=portal.citygrainla.com&path=%2F#US%20VLESS-18%20%7C%20free-nodes
+vless://2af77824-f83d-4f50-9dd0-560bb6e7cd45@107.172.214.195:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=academy.nvidia.com&fp=firefox&pbk=jK8yu9AMtNQ4J_uKE1inAzJr6V5J4GNK3sAN6nZBbUo&type=tcp&headerType=none&host=academy.nvidia.com&path=%2F#US%20VLESS-19%20%7C%20free-nodes
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?encryption=none&security=tls&sni=hk010.zestapp778.com&fp=chrome&type=tcp&headerType=none#HK%20VLESS-20%20%7C%20free-nodes
 ```
 
 ### 永久订阅地址 
